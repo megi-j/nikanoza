@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently mentoring in the Bootcamp of Oto **https://oto.bitcamp.ge/**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AniAvazneli](https://github.com/nikanoza)
+- 👨‍💻 All of my projects are available at [https://github.com/nikanoza](https://github.com/nikanoza)
 
 - 📫 How to reach me **https://www.linkedin.com/in/nika-nozadze-67b62a210/**
 
