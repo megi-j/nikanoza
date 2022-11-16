@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [nikanoza](https://github.com/nikanoza)
 
-- 📫 How to reach me [nikanoza](https://github.com/nikanoza](https://www.linkedin.com/in/nika-nozadze-67b62a210/)
+- 📫 How to reach me [nikanoza](https://www.linkedin.com/in/nika-nozadze-67b62a210)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
