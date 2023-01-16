@@ -21,8 +21,4 @@
 
 ![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikanoza&show_icons=true&theme=dark&text_color=FFFFFF&locale=en&layout=compact" alt="nikanoza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikanoza&show_icons=true&theme=dark&text_color=FFFFFF&locale=en" alt="nikanoza" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza&" alt="nikanoza" /></p>
